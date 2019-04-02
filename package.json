@@ -1,0 +1,12 @@
+{
+  "name": "tabletop-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nKorous/tabletop-helper.git",
+  "author": "Nate Korous <natekorous@workfront.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.16.4"
+  }
+}
